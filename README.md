@@ -1,4 +1,4 @@
-# ios101-capstone
+![image](https://github.com/Sisi-tech/ios101-capstone/assets/110059102/94861ef1-1fb8-4099-b892-d8c1fafc5b8e)# ios101-capstone
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ Notebook - Allow students to write, edit, and check notes anytime. also can add 
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="![image_50384897](https://github.com/Sisi-tech/ios101-capstone/assets/110059102/cf12f414-fb75-444d-bf40-58548bfceb00)" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
