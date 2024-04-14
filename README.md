@@ -18,10 +18,10 @@ Notebook - Allow students to write, edit, and check notes anytime. also can add 
 [Evaluation of your app across the following attributes]
 - **Category:** Education
 - **Mobile:** Mobile is essential for the instant logging of student behavior. Students use the app to make a note and add class schedule to remind them. 
-- **Story:** Create different template for study to choose 
-- **Market:** Any study could utilize this app. District wide licensing and custom features could be used for monetization.
-- **Habit:**  Students are using this constantly throughout the school day. Students are using the app daily to check their notes and class schedules.
-- **Scope:**  V1 would allow students save their notes.  V2 would allow students check their notes hisotry. V3 allow students edit their notes. V4 allow students add reminder
+- **Story:** Create a different template for the study to choose 
+- **Market:** Any study could utilize this app. District-wide licensing and custom features could be used for monetization.
+- **Habit:**  Students use this constantly throughout the school day. Students are using the app daily to check their notes and class schedules.
+- **Scope:**  V1 would allow students to save their notes.  V2 would enable students to check their notes history. V3 allows students to edit their notes. V4 allows students add a reminder
 
 ## Product Spec
 
