@@ -11,17 +11,17 @@
 
 ### Description
 
-[Description of your app]
+Notebook - Allow students to write, edit, and check notes anytime. also can add a calendar for the class schedule. 
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Education
+- **Mobile:** Mobile is essential for the instant logging of student behavior. Students use the app to make a note and add class schedule to remind them. 
+- **Story:** Create different template for study to choose 
+- **Market:** Any study could utilize this app. District wide licensing and custom features could be used for monetization.
+- **Habit:**  Students are using this constantly throughout the school day. Students are using the app daily to check their notes and class schedules.
+- **Scope:**  V1 would allow students save their notes.  V2 would allow students check their notes hisotry. V3 allow students edit their notes. V4 allow students add reminder
 
 ## Product Spec
 
