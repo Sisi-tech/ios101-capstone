@@ -46,9 +46,11 @@ Notebook - Allow students to write, edit, and check notes anytime. also can add 
 * ...
 
 ## Wireframes
+<div>
+  <img src="https://github.com/Sisi-tech/ios101-capstone/assets/110059102/cf12f414-fb75-444d-bf40-58548bfceb00" width=600 />
+    <img src="https://github.com/Sisi-tech/ios101-capstone/assets/110059102/e3feee69-95e7-4209-aab0-7822b21dcd3d" width=600 />
+</div>
 
-<img src="![image_50384897](https://github.com/Sisi-tech/ios101-capstone/assets/110059102/cf12f414-fb75-444d-bf40-58548bfceb00)" width=600 >
-<img src="![image_50348033](https://github.com/Sisi-tech/ios101-capstone/assets/110059102/e3feee69-95e7-4209-aab0-7822b21dcd3d)" width=600 >
 
 
 ### [BONUS] Digital Wireframes & Mockups
